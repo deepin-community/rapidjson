@@ -23,3 +23,4 @@ gcc12_valuetest.patch
 0001-gate-definition-of-symmetric-equality-operators-on-i.patch
 0001-do-not-define-operator-in-C-20.patch
 CVE-2024-38517.patch
+0026-Do-not-use-march-native-on-sw_64.patch
