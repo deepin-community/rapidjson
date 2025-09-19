@@ -1,9 +1,11 @@
 rapidjson (1.1.0+dfsg2-7.4deepin1) unstable; urgency=medium
 
+  [ sisungo ]
   * Do not use -march=native on riscv32 and riscv64.
+  * Do not use -march=native on sw_64.
   * Disable -Werror=class-memaccess.
 
- -- sisungo <sisungo@icloud.com>  Sat, 6 Sep 2025 10:23:21 +0800
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 19 Sep 2025 11:49:56 +0800
 
 rapidjson (1.1.0+dfsg2-7.4) unstable; urgency=medium
 
